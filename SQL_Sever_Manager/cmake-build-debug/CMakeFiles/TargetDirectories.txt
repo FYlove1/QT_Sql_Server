@@ -1,0 +1,5 @@
+E:/studyspace/CLION_Project/SQL_Sever_Manager/cmake-build-debug/CMakeFiles/Sql_manager.dir
+E:/studyspace/CLION_Project/SQL_Sever_Manager/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/studyspace/CLION_Project/SQL_Sever_Manager/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+E:/studyspace/CLION_Project/SQL_Sever_Manager/cmake-build-debug/CMakeFiles/Sql_manager_autogen_timestamp_deps.dir
+E:/studyspace/CLION_Project/SQL_Sever_Manager/cmake-build-debug/CMakeFiles/Sql_manager_autogen.dir
